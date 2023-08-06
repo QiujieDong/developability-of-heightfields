@@ -17,9 +17,7 @@
 
   - 安装教程：[无图形界面Linux安装Matlab2020](https://zhuanlan.zhihu.com/p/394298249)
     - 使用教程里的sh安装就可以，很方便
-    - 如果教程失效了，使用下面的备份
-      - 或者文件里的PDF版本，matlab下载地址[[百度云盘]](https://pan.baidu.com/s/1w5-kumvF8ooNE-PBMxyIQw)
-        - 提取码: hym7
+    - 如果教程失效了，可以联系我，或者与上面这个教程的知乎大神联系
   - 安装文成后，将matlab的地址加到zshrc或者bashrc
     - export Matlab_PATH=/home/qiujie/Matlab/R2020a/bin
       export PATH=$Matlab_PATH:$PATH
