@@ -43,10 +43,11 @@
 
   - ```
     cd developability-of-heightfields
-    matlab
+    matlab -softwareopengl
     ```
 
     - 这时候会通过出现matlab的GUI界面
+    - 运行的matlab的时候，带后面的-softwareopengl，从显示切换到软件OpenGL。不然的话在下面运行gui_developables这个出现的GUI会只有几个按钮，不显示图（我的是这样，如果不是这样，可以只输入matlab）
 
   - 下面这几步在matlab的command windows中输入命令
 
